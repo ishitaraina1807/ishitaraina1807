@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/laptop%20wave.png?raw=true"></p>
+<p align="center">
+  <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/laptop%20wave.png?raw=true" width="300">
+</p>
 <p align="center"><img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/header.png?raw=true"></p>
 
 <h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am shita Raina </h1>
@@ -14,12 +16,12 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![API](https://img.shields.io/badge/-API-FF5700?style=flat)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&color=05122A&labelColor=05122A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&color=05122A&labelColor=05122A)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=05122A&labelColor=05122A)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&color=05122A&labelColor=05122A)
+![API](https://img.shields.io/badge/-API-FF5700?style=flat&color=05122A&labelColor=05122A)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&color=05122A&labelColor=05122A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
