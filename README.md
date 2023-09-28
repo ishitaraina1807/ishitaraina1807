@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/laptop%20wave.png?raw=true" width="300">
 </p>
-<p align="center"><img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/header.png?raw=true"></p>
-
 <h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am shita Raina </h1>
 
-<p align="center" width="150px"> I am a Full Stack Web Developer, currently persuing my Computer Science Engineering.</p>
+<p align="center" width="150px"> I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</p>
+
+<p align="center"><img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/header.png?raw=true"></p>
+
+
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/ishitaraina1807/count.svg" alt="visitor badge"/></p>
