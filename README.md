@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/laptop%20wave.png?raw=true" width="300">
 </p>
-<h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am shita Raina </h1>
+<h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Ishita Raina </h1>
 
 <p align="center" width="150px"> I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</p>
 
